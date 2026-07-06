@@ -1,4 +1,4 @@
- 07. El problema de los archivos tradicionales
+# 7. El problema de los archivos tradicionales
 
 En los primeros sistemas informáticos no existían las Bases de Datos tal y como las conocemos hoy. Cada programa almacenaba su propia información en archivos independientes. Mientras las organizaciones eran pequeñas este enfoque funcionaba razonablemente bien, pero conforme aumentó el volumen de datos comenzaron a aparecer numerosos problemas.
 
@@ -50,8 +50,4 @@ Si alguno de esos archivos no se actualiza, la empresa comenzará a trabajar con
 ### Ideas clave
 
 Los archivos tradicionales resolvían el problema de almacenar información, pero no el de administrarla de forma consistente y compartida.
-
-### Siguiente lectura
-
-→ [08. ¿Qué es una Base de Datos?](https://chatgpt.com/c/08_que_es_una_base_de_datos.md)
 

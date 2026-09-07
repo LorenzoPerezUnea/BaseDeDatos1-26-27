@@ -18,7 +18,7 @@ En 1970 publicó un artículo titulado:
 
 > *A Relational Model of Data for Large Shared Data Banks.*
 
-En este trabajo propuso abandonar los modelos jerárquicos y en red para adoptar una organización basada en relaciones.
+En este trabajo propuso un nuevo modelo de datos basado en relaciones, como alternativa a las estructuras jerárquicas y de red utilizadas en los sistemas de la época.
 
 Aunque inicialmente la idea fue recibida con cierto escepticismo, pronto comenzó a demostrar sus ventajas.
 
@@ -31,7 +31,7 @@ Se fundamenta principalmente en dos áreas de las matemáticas.
 * La teoría de conjuntos.
 * La lógica de predicados.
 
-Gracias a esta base matemática fue posible demostrar propiedades importantes de las consultas y desarrollar posteriormente lenguajes como SQL.
+La base matemática del modelo relacional permitió desarrollar una forma formal de representar y manipular datos. Posteriormente surgieron lenguajes para trabajar con bases de datos relacionales, entre ellos SQL, desarrollado inicialmente en IBM a partir de SEQUEL.
 
 ### El impacto de su trabajo
 

@@ -8,7 +8,9 @@ Ese software recibe el nombre de ​**Sistema Gestor de Bases de Datos**​, con
 
 Un SGBD actúa como intermediario entre los usuarios y los datos.
 
-En lugar de acceder directamente a los archivos del disco, todas las operaciones pasan por el gestor.
+En lugar de acceder directamente a los archivos del disco.
+
+En condiciones normales, las aplicaciones utilizan los servicios proporcionados por el SGBD para consultar y modificar la información, en lugar de gestionar directamente las estructuras internas de almacenamiento.
 
 ```mermaid
 flowchart LR
@@ -40,7 +42,7 @@ Un Sistema Gestor de Bases de Datos permite:
 
 Algunos de los sistemas más utilizados actualmente son:
 
-| SGBD                 | Tipo      | Uso habitual                          |
+| SGBD                 | Características generales | Uso habitual                          |
 | ---------------------- | ----------- | --------------------------------------- |
 | MySQL                | Libre     | Aplicaciones web                      |
 | PostgreSQL           | Libre     | Sistemas empresariales y científicos |

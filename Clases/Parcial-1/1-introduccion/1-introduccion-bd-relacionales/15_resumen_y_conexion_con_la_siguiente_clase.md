@@ -4,7 +4,7 @@ Con esta primera clase hemos sentado las bases conceptuales sobre las que constr
 
 Hemos comprendido que una Base de Datos no surge simplemente para almacenar información, sino para resolver problemas reales relacionados con la organización, el mantenimiento y el acceso a los datos.
 
-También hemos visto cómo los sistemas basados en archivos presentaban limitaciones importantes y cómo el Modelo Relacional ofreció una solución mucho más flexible y robusta.
+El Modelo Relacional introdujo una forma diferente de representar y consultar los datos, separando en mayor medida la organización lógica de los datos de sus detalles de almacenamiento físico.
 
 Además, hemos conocido a Edgar F. Codd, las ideas que dieron origen al Modelo Relacional y el papel de los Sistemas Gestores de Bases de Datos como software encargado de administrar la información.
 

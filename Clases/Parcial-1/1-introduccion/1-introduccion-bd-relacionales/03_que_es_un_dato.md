@@ -6,9 +6,7 @@ La palabra dato aparece continuamente en informática.
 
 Sin embargo, pocas veces nos detenemos a pensar qué significa realmente.
 
-Un dato representa un hecho.
-
-Algo que puede observarse, medirse o registrarse.
+Un dato es una representación de un valor, hecho, característica o medida que puede ser almacenada, procesada o comunicada por un sistema.
 
 Por ejemplo:
 
@@ -74,7 +72,7 @@ Un vídeo.
 Una grabación de audio.
 ```
 
-Las Bases de Datos Relacionales trabajan principalmente con datos estructurados.
+Las Bases de Datos Relacionales trabajan principalmente con datos estructurados. También existen datos semiestructurados, como JSON o XML, y datos no estructurados, como documentos, imágenes o vídeos.
 
 ### La importancia del dato
 

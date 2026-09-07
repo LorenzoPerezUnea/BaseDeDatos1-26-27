@@ -8,6 +8,12 @@ Para evitar confusiones, Codd definió una serie de principios que permitían ev
 
 Estas recomendaciones son conocidas como ​**Reglas de Codd**​.
 
+En 1985, Edgar F. Codd publicó una serie de reglas destinadas a establecer criterios para evaluar hasta qué punto un SGBD cumplía los principios del modelo relacional.
+
+Las reglas clásicas son la 1 a la 12, aunque posteriormente se incorporó la denominada Regla 0.
+
+Por ello, al considerar la Regla 0 y las reglas 1–12 hablamos de 13 reglas numeradas, aunque la denominación habitual sigue siendo “las 12 Reglas de Codd”.
+
 ### ¿Qué son las Reglas de Codd?
 
 Las Reglas de Codd constituyen un conjunto de criterios que describen cómo debería comportarse un Sistema Gestor de Bases de Datos Relacional.

@@ -58,6 +58,12 @@ B --> G
 D --> G
 ```
 
+Este diagrama representa únicamente una visión inicial del negocio.
+
+Las entidades, relaciones y dependencias mostradas aquí no constituyen todavía el diseño de la Base de Datos.
+
+A lo largo del curso analizaremos el negocio con mayor profundidad y podremos descubrir nuevas entidades, relaciones, atributos y restricciones.
+
 En esta primera clase todavía no construiremos tablas.
 
 Nuestro objetivo consiste únicamente en comprender el negocio y conocer los elementos principales que lo forman.

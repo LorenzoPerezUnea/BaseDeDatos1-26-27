@@ -1,6 +1,10 @@
 # 7. El problema de los archivos tradicionales
 
-En los primeros sistemas informáticos no existían las Bases de Datos tal y como las conocemos hoy. Cada programa almacenaba su propia información en archivos independientes. Mientras las organizaciones eran pequeñas este enfoque funcionaba razonablemente bien, pero conforme aumentó el volumen de datos comenzaron a aparecer numerosos problemas.
+En los primeros sistemas informáticos no existían las Bases de Datos tal y como las conocemos hoy.
+
+En muchos de los primeros sistemas de procesamiento de datos, cada aplicación gestionaba sus propios archivos y estructuras de información.
+
+Mientras las organizaciones eran pequeñas este enfoque funcionaba razonablemente bien, pero conforme aumentó el volumen de datos comenzaron a aparecer numerosos problemas.
 
 Comprender estas limitaciones permite entender por qué fue necesario desarrollar un nuevo modelo de almacenamiento.
 

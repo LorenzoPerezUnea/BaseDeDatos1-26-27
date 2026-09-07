@@ -54,7 +54,9 @@ Una organización necesita responder preguntas como:
 * ¿Qué sucursal obtuvo mayores ingresos?
 * ¿Qué clientes compran con mayor frecuencia?
 
-Una Base de Datos bien diseñada permite responder estas preguntas en pocos segundos.
+Una Base de Datos bien diseñada proporciona la estructura necesaria para realizar estas consultas de forma eficiente.
+
+El tiempo de respuesta dependerá, entre otros factores, del volumen de datos, la complejidad de las consultas, los índices, el hardware, la configuración del SGBD y la carga del sistema.
 
 ### Resumen
 
@@ -66,5 +68,4 @@ Los principales objetivos de una Base de Datos son:
 * Garantizar la seguridad.
 * Facilitar consultas eficientes.
 * Apoyar la toma de decisiones.
-
 

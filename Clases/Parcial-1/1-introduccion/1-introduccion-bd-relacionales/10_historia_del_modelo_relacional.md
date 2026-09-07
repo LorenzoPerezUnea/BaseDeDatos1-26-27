@@ -13,7 +13,7 @@ Antes de 1970 predominaban principalmente dos modelos.
 * Modelo jerárquico.
 * Modelo en red.
 
-En ambos casos era necesario conocer exactamente cómo estaban conectados los datos para poder consultarlos.
+En muchos sistemas jerárquicos y de red, las aplicaciones utilizaban mecanismos de navegación que dependían de la estructura y de las conexiones existentes entre los datos.
 
 ```mermaid
 flowchart TD

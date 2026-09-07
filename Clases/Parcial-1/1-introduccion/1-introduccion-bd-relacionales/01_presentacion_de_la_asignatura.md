@@ -26,7 +26,7 @@ Pero SQL es solamente una herramienta.
 
 Sería equivalente a pensar que aprender arquitectura consiste únicamente en aprender a utilizar un martillo.
 
-El verdadero objetivo consiste en aprender a diseñar correctamente estructuras de información.
+El objetivo del curso consiste en analizar problemas de información, modelar los datos correctamente, diseñar bases de datos, consultar y modificar la información y comprender los principios que permiten mantenerla íntegra, consistente y eficiente.
 
 Durante el semestre dedicaremos más tiempo a comprender problemas que a memorizar sintaxis.
 

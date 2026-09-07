@@ -14,7 +14,9 @@ Debe existir una estructura que permita encontrarla y mantenerla correctamente.
 
 ### Una única fuente de información
 
-La idea fundamental consiste en almacenar cada dato una sola vez.
+Una Base de Datos bien diseñada busca reducir la duplicación innecesaria de información.
+
+Esto no significa que cada dato deba aparecer físicamente una sola vez, ya que en determinadas situaciones puede existir redundancia intencionada por razones de rendimiento, distribución, históricos o generación de datos derivados.
 
 Todas las aplicaciones consultan la misma información.
 

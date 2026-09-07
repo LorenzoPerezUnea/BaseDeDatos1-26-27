@@ -12,7 +12,7 @@ No se trata únicamente de crear tablas.
 
 Tampoco se trata únicamente de realizar consultas.
 
-Al finalizar el curso el estudiante deberá ser capaz de analizar un problema real y construir una solución completa basada en una Base de Datos Relacional.
+Al finalizar el curso el estudiante deberá ser capaz de analizar un problema real y diseñar e implementar una solución de gestión de datos basada en una Base de Datos Relacional, desde el análisis y modelado hasta su implementación y consulta mediante SQL.
 
 ### El recorrido completo
 

@@ -50,9 +50,7 @@ La información surge cuando los datos se relacionan.
 
 Esta idea es tan importante que explica el éxito del modelo relacional.
 
-Las bases de datos modernas no se limitan a almacenar datos.
-
-Almacenan relaciones entre datos.
+Las bases de datos permiten almacenar, organizar y relacionar datos de forma que puedan ser consultados y utilizados para obtener información.
 
 ### Representación visual
 

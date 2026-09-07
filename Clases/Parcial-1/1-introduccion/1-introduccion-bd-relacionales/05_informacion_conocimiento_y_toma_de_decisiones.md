@@ -30,7 +30,7 @@ Ahora un gerente observa esos resultados y concluye:
 * Debemos aumentar el inventario.
 * Debemos revisar la estrategia comercial de los otros productos.
 
-Acaba de generarse conocimiento.
+Acaba de generarse conocimiento. En este modelo conceptual, la interpretación de esa información puede considerarse conocimiento que permite tomar decisiones
 
 ### La cadena completa
 

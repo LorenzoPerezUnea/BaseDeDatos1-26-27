@@ -36,6 +36,8 @@ Todos permitían conservar información.
 
 Pero ninguno facilitaba búsquedas rápidas o análisis complejos.
 
+A medida que aumentaba el volumen de información, buscar, cruzar, actualizar y analizar grandes cantidades de datos se volvía cada vez más costoso y dependía en gran medida de procesos manuales.
+
 ### La llegada de los sistemas mecánicos
 
 Con la Revolución Industrial aumentó enormemente la cantidad de información generada.

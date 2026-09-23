@@ -41,6 +41,10 @@ Al finalizar esta clase el estudiante será capaz de:
 10. [Caso completo paso a paso](10_caso_completo_paso_a_paso.md)
 11. [Revisión del modelo](11_revision_del_modelo.md)
 12. [Resumen](12_resumen.md)
+13. [Resumen](13_ejercicios.md)
+14. [Resumen](14_ejercicios.md)
+15. [Resumen](15_ejercicios.md)
+16. [Resumen](16_ejercicios.md)
 
 ### Mapa conceptual
 

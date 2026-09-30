@@ -1,6 +1,5 @@
 # Clase 10 — Del Modelo Relacional al Diseño Lógico
 
-
 Durante las clases anteriores hemos aprendido a analizar un problema, construir un modelo Entidad-Relación, transformarlo en un modelo relacional y normalizarlo hasta obtener una estructura consistente y libre de redundancias innecesarias.
 
 Sin embargo, todavía no hemos construido una base de datos real.
@@ -40,6 +39,10 @@ Al finalizar esta clase el estudiante será capaz de:
 10. [Documentación del modelo](10_documentacion_del_modelo.md)
 11. [Revisión final del caso práctico](11_revision_final_del_caso_practico.md)
 12. [Resumen](12_resumen.md)
+13. [Ejercicios](13_ejercicios.md)
+14. [Ejercicios](14_ejercicios.md)
+15. [Ejercicios](15_ejercicios.md)
+16. [Ejercicios](16_ejercicios.md)
 
 ### Mapa conceptual
 

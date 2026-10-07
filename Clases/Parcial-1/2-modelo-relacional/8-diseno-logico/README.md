@@ -43,6 +43,7 @@ Al finalizar esta clase el estudiante será capaz de:
 14. [Ejercicios](14_ejercicios.md)
 15. [Ejercicios](15_ejercicios.md)
 16. [Ejercicios](16_ejercicios.md)
+17. [Ejercicio BCFN](17_ejercicio_BCFN.md)
 
 ### Mapa conceptual
 

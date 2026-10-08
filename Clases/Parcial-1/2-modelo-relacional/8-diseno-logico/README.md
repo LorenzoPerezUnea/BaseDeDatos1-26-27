@@ -44,6 +44,8 @@ Al finalizar esta clase el estudiante será capaz de:
 15. [Ejercicios](15_ejercicios.md)
 16. [Ejercicios](16_ejercicios.md)
 17. [Ejercicio BCFN](17_ejercicio_BCFN.md)
+18. [Ejercicios de normalización](18_ejercicio_normalizacion.md)
+19. [Ejercicios de disñeo lógico](19_ejercicio_diseño_logico.md)
 
 ### Mapa conceptual
 

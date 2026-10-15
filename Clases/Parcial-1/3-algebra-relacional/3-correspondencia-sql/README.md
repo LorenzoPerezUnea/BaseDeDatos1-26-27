@@ -1,4 +1,4 @@
-# Clase 13. Correspondencia entre Álgebra Relacional y SQL
+intermediosz# Clase 13. Correspondencia entre Álgebra Relacional y SQL
 
 ## Introducción
 
@@ -38,6 +38,9 @@ Al finalizar esta sesión el estudiante será capaz de:
 11. [Ejercicios guiados](11_ejercicios_guiados.md)
 12. [Preparación para MySQL](12_preparacion_para_mysql.md)
 13. [Resumen](13_resumen.md)
+14. [Ejercicios sencillos](14_ejercicios_sencillos.md)
+15. [Ejercicios intermedios](15_ejercicios_intermedios.md)
+16. [Ejercicios dificiles](16_ejercicios_dificiles.md)
 
 ## Mapa conceptual
 

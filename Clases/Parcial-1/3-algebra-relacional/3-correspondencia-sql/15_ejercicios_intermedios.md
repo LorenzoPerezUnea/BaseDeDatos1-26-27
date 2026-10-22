@@ -103,15 +103,15 @@ Obtener los pares de productos distintos que tienen exactamente el mismo precio.
 ### Notación de álgebra relacional
 
 ```
-PRODUCTO_A ← ρ A (PRODUCTO)
+PRODUCTO_A ← ρ id_producto_A ← id_producto, nombre_A ← nombre, precio_A ← precio (PRODUCTO)
 
-PRODUCTO_B ← ρ B (PRODUCTO)
+PRODUCTO_B ← ρ id_producto_B ← id_producto, nombre_B ← nombre, precio_B ← precio (PRODUCTO)
 
 PARES_CANDIDATOS ← PRODUCTO_A × PRODUCTO_B
 
-PARES_MISMO_PRECIO ← σ A.precio = B.precio AND A.id_producto < B.id_producto (PARES_CANDIDATOS)
+PARES_MISMO_PRECIO ← σ precio_A = precio_B AND id_producto_A < id_producto_B (PARES_CANDIDATOS)
 
-RESULTADO_EJ8 ← π A.id_producto, A.nombre, B.id_producto, B.nombre (PARES_MISMO_PRECIO)
+RESULTADO_EJ8 ← π id_producto_A, nombre_A, id_producto_B, nombre_B (PARES_MISMO_PRECIO)
 ```
 
 El renombrado permite distinguir los atributos de cada copia de `PRODUCTO`. La condición `A.id_producto < B.id_producto` evita comparar un producto consigo mismo y elimina la duplicación por orden inverso: si se obtiene el par A–B, no se obtiene también B–A.

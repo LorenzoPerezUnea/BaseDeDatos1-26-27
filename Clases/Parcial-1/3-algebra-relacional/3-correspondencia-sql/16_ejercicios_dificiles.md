@@ -164,13 +164,17 @@ Se deben mostrar únicamente los clientes que hayan realizado pedidos que conten
 ### Notación de álgebra relacional
 
 ```
-CLIENTES_PEDIDOS ← CLIENTE ⋈ CLIENTE.id_cliente = PEDIDO.id_cliente PEDIDO
+CLIENTE_REN ← ρ nombre_cliente ← nombre (CLIENTE)
 
-PEDIDOS_CON_DETALLE ← CLIENTES_PEDIDOS ⋈ PEDIDOS.id_pedido = DETALLE_PEDIDO.id_pedido DETALLE_PEDIDO
+PRODUCTO_REN ← ρ nombre_producto ← nombre (PRODUCTO)
 
-PEDIDOS_PRODUCTOS ← PEDIDOS_CON_DETALLE ⋈ DETALLE_PEDIDO.id_producto = PRODUCTO.id_producto PRODUCTO
+CLIENTES_PEDIDOS ← CLIENTE_REN ⋈ CLIENTE_REN.id_cliente = PEDIDO.id_cliente PEDIDO
 
-RESULTADO_EJ13 ← π CLIENTE.nombre, PEDIDO.id_pedido, PEDIDO.fecha, PRODUCTO.nombre, DETALLE_PEDIDO.cantidad, DETALLE_PEDIDO.precio_unitario (PEDIDOS_PRODUCTOS)
+PEDIDOS_CON_DETALLE ← CLIENTES_PEDIDOS ⋈ CLIENTES_PEDIDOS.id_pedido = DETALLE_PEDIDO.id_pedido DETALLE_PEDIDO
+
+PEDIDOS_PRODUCTOS ← PEDIDOS_CON_DETALLE ⋈ DETALLE_PEDIDO.id_producto = PRODUCTO_REN.id_producto PRODUCTO_REN
+
+RESULTADO_EJ13 ← π nombre_cliente, id_pedido, fecha, nombre_producto, cantidad, precio_unitario (PEDIDOS_PRODUCTOS)
 ```
 
 ### Observaciones

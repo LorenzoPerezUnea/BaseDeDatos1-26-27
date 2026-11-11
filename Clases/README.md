@@ -30,7 +30,7 @@
     - [ ] [Clase 14. SQL DDL: CREATE DATABASE y CREATE TABLE](Parcial-2/4-SQL/1-sql-ddl-create)
     - [ ] [Clase 15. SQL DDL: Restricciones, claves y ALTER TABLE](Parcial-2/4-SQL/2-sql-ddl-alter)
     - [ ] [Clase 16. SQL DML: INSERT, UPDATE y DELETE](Parcial-2/4-SQL/3-sql-dml-crud)
-    - [ ] [Clase 17. SQL DML: SELECT, WHERE y ORDER BY](Parcial-2/4-SQL/4-SQL-select)
+    - [ ] [Clase 17. SQL DML: SELECT, WHERE y ORDER BY](Parcial-2/4-SQL/4-sql-select)
     - [ ] [Clase 18. SQL DML: Funciones, GROUP BY y HAVING](Parcial-2/4-SQL/5-sql-agregacion)
     - [ ] [Clase 19. SQL Avanzado: JOIN](Parcial-2/4-SQL/6-sql-joins)
     - [ ] [Clase 20. SQL Avanzado: Subconsultas](Parcial-2/4-SQL/7-sql-subconsultas)

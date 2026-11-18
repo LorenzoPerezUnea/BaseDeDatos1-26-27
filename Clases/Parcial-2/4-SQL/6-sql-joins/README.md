@@ -65,6 +65,7 @@ Al finalizar esta clase el estudiante será capaz de:
 13. [Caso práctico empresa](13_caso_practico_empresa.md)
 14. [Ejercicios incrementales](14_ejercicios_incrementales.md)
 15. [Resumen](15_resumen.md)
+16. [Prompt de ejercicios](16_prompt.md)
 
 ---
 

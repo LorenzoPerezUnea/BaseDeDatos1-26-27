@@ -39,9 +39,8 @@
     - [ ] [Clase 25. Optimización II: Buenas prácticas y rendimiento](Parcial-2/4-SQL/12-optimizacion-2)
     - [ ] [Clase 26. MySQL Cloud: AWS RDS y Google Cloud SQL](Parcial-2/4-SQL/13-mysql-cloud)
     - [ ] [Taller 2. Desarrollo de un caso práctico completo con SQL](Parcial-2/4-SQL/14-taller-sql)
-  - [ ] Examen del Segundo Parcial
-  - [ ] Revisión del Examen del Segundo Parcial
-
+    
+  
 - [ ] Examen Final
 - [ ] Revisión del Examen Final
 
